@@ -16,3 +16,6 @@ Encender Apagar Foco con aplausos
 - 1 relé de 220v AC / 6v DC ( si en su país de 110v AC reemplázalo el relé por uno de 110v AC / 6v DC)
 - 1 lámpara de 220v AC (va conectado al relé para la etapa de potencia)
 - Fuente de 5v DC.
+
+
+![Captura4](https://user-images.githubusercontent.com/7d7a17733eb918be36c9f2e4e45a4ebc40cb2442/DIAGRAMA.JPG)
