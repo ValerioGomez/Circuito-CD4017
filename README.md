@@ -18,4 +18,4 @@ Encender Apagar Foco con aplausos
 - Fuente de 5v DC.
 
 
-![Captura4](https://user-images.githubusercontent.com/7d7a17733eb918be36c9f2e4e45a4ebc40cb2442/DIAGRAMA.JPG)
+![Captura4]([https://user-images.githubusercontent.com/7d7a17733eb918be36c9f2e4e45a4ebc40cb2442/DIAGRAMA.JPG](https://user-images.githubusercontent.com/16279201/169451859-e478d1f2-40ef-4bed-9570-9b464f6b0d57.JPG))
